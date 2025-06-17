@@ -33,7 +33,7 @@ I am an Computer science student at Nacional University.I'm learning Pseint and 
 - Usually I read, I love soccer , I like hang out with friends and I'm good studing at the University 
 -  Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
 
-
+In this moment I´'m learning how use this app, so I dont have any more, therefore please be comprensive with me.
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
