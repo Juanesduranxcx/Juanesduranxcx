@@ -28,10 +28,10 @@ I am an Computer science student at Nacional University.I'm learning Pseint and 
 - 🌱 I’m currently learning ...
   - Pseint
   - Phyton
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
+- I am good at helping each others.
+- You cant write me about anything.
+- Usually I read, I love soccer , I like hang out with friends and I'm good studing at the University 
+-  Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
 
 
 
