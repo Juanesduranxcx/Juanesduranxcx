@@ -31,7 +31,7 @@ I am an Computer science student at Nacional University.I'm learning Pseint and 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="juaduranco@unal,edu.co.in">bhargavi.juaduranco@unal,edu.co.in</a>
+- 📫 Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.in</a>
 
 
 
