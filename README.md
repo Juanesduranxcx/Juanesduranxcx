@@ -27,11 +27,11 @@ I am an Computer science student at Nacional University.I'm learning Pseint and 
 * **I am interested in programing, Languajes, and maths**
 - 🌱 I’m currently learning ...
   - Pseint
-  - Phyton
+  - Phyton.
 - I am good at helping each others.
-- You cant write me about anything.
-- Usually I read, I love soccer , I like hang out with friends and I'm feeling good studing at the University.
--  Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
+- You can write me about anything.
+- Normally  I read, I like soccer , I like hang out with friends and I'm feeling good studing at the University.
+- Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
 
 In this moment I'm learning how use this app, so I dont have any more, therefore please be comprensive with me.
 
