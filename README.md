@@ -1,40 +1,21 @@
-# Hi there 👋, Juanes here.
+# Hola 👋, soy Juanes
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers) <br/>
+Estudiante de **Ciencias de la computacion** en la **Universidad Nacional de Colombia (Sede Manizales)**. Mi enfoque actual es fortalecer mis bases en lógica de programación y algoritmos para construir soluciones eficientes y escalables.
 
+### 🚀 Sobre mí
+- 🎓 **Formación:** Actualmente centrado en el estudio de Estructuras de Datos y Programación Orientada a Objetos.
+- 💡 **Intereses:** Me apasiona el desarrollo de software, la lógica matemática y el aprendizaje de nuevos idiomas.
+- ⚙️ **Enfoque:** Creo en el código limpio y en la importancia de documentar los procesos (como puedes ver en mis repositorios),  tambien en el apoyo de la IA para la rapida y eficaz solucion de problemas (con su respectiva supervicion).
 
+### 🛠️ Stack Tecnológico
+- **Lenguajes:** Java, Python.
+- **Herramientas:** Git, GitHub, IntelliJ IDEA, VisualStudio code.
 
+### 📈 Mis Proyectos
+*Puedes explorar mis repositorios para ver en qué he estado trabajando. Cada uno cuenta con su propia documentación detallada.*
 
+---
 
-
-
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"  />
-
-
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-I am an Computer science student at Nacional University.I'm learning Pseint and phyton in this moment. I like to learn and discover something new, productive, innovative and creative.
-* **I am interested in programing, Languajes, and maths**
-- 🌱 I’m currently learning ...
-  - Pseint
-  - Phyton.
-- I am good at helping each others.
-- You can write me about anything.
-- Normally  I read, I like soccer , I like hang out with friends and I'm feeling good studing at the University.
-- Reach out to me at: <a href="juaduranco@unal,edu.co.in">juaduranco@unal.edu.co.</a>
-
-In this moment I'm learning how use this app, so I dont have any more, therefore please be comprensive with me.
-
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
-
-Date: 18/11/2021
+### 📫 Conectemos
+- **Email:** [juaduranco@unal.edu.co](mailto:juaduranco@unal.edu.co)
+- **📍 Ubicación:** Manizales, Colombia.
